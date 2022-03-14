@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Codecademy Expense Tracker Project
+
+This project—a budgeting and expense tracking app—allows you to practice refactoring with Redux Toolkit.
+
+The app allows you to set budgets for various categories, such as food and transportation, and track transactions in those categories.
+
+It then sums your spending in each category to calculate the amount of money that remains to be spent.
+
+## Built with
+- React
+- Dependecies: react-redux, redux-toolkit
+- Git, GitHub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
